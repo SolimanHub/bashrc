@@ -1,0 +1,11 @@
+#
+# ~/.bash_aliases
+#
+
+alias ls="ls -ghp --color=auto --dereference-command-line-symlink-to-dir"
+alias v="nvim"
+alias upd="sudo pacman -Syyu --noconfirm"
+alias ins="sudo pacman -S"
+alias tree="tree -C"
+alias l="ls"
+alias susu="sudo su"
