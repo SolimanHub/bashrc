@@ -1,4 +1,4 @@
-# REAEME
+# README
 
 Este repositorio contiene mi configuracion de `.bashrc` y mis alias
 
