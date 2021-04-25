@@ -4,6 +4,8 @@ Este repositorio contiene mi configuracion de `.bashrc` y mis alias
 
 ## Instrucciones recomendadas
 
+- `$ rm ~/.bashrc
+
 - `$ cd ~/.config/`
 
 - `git clone https://github.com/SolimanHub/bashrc.git`
