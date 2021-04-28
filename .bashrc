@@ -143,4 +143,4 @@ ex ()
   fi
 }
 
-source ~/.config/bashrc/.mis_alias
+source /home/dse/.config/bashrc/.mis_alias
